@@ -45,3 +45,5 @@ Here are some ideas to get you started:
 ### I LOVE all things fantasy
 
 ### This is my faveorte Apple emoji: 🥴 (Face with Uneven Eyes and Wavy Mouth Emoji)
+
+#### hahahah I wasted your time reading this HUGE README >:]
