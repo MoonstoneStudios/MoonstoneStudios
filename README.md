@@ -47,3 +47,9 @@ Here are some ideas to get you started:
 ### This is my faveorte Apple emoji: 🥴 (Face with Uneven Eyes and Wavy Mouth Emoji)
 
 #### hahahah I wasted your time reading this HUGE README >:]
+
+[![Moonstone's github stats](https://github-readme-stats.vercel.app/api?username=moonstonestudios&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonstonestudios&theme=radical&hide=java)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Moonstone's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MoonstoneStudios&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
