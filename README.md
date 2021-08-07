@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi I am _Moonstone!_  🐉
+## Hi I am _Moonstone!_  ✨
 ###### he/him
-### I am an indie game developer who is lerning multiple coding languages!
+### I am an indie game developer who loves programming and learning new things about it.
 
-### I use _Unity Game Engine_ to make most of my games. (slowly switching to MonoGame)
+### I use _C# and the MonoGame Framework_ to make my games and other various projects.
 
-## Things You dont really need to know about me but im sharing with you anyways:
+I code mostly in C#. C# is my favorite programming language and Visual Studio is my IDE of choice. I am interested in trying to make a multiplayer game. I am also working on a custom game engine for my games. I have had to rewrite it 3 times by now lmao.
 
-### I code mostly in C#
-
-### (Windows Lisard Emoji) 🦎
+Currently trying to make the next best game of the year 😎
