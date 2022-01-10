@@ -20,6 +20,13 @@ Here are some ideas to get you started:
 
 ### I use _C# and the MonoGame Framework_ to make my games and other various projects.
 
-I code mostly in C#. C# is my favorite programming language and Visual Studio is my IDE of choice. I am interested in trying to make a multiplayer game. I am also working on a custom game engine for my games. I have had to rewrite it 3 times by now lmao.
+I code mostly in C# and it is my favorite programming language. Visual Studio is my IDE of choice. I am interested in trying to make a multiplayer game. I am also working on a custom game engine for my games. I have had to rewrite it 3 times by now lmao.
 
 Currently trying to make the next best game of the year 😎
+
+---
+
+**Code Zone**
+
+
+[![wakatime](https://wakatime.com/badge/user/35c755da-7226-42ef-89f9-892c03fbcf7e.svg?style=for-the-badge)](https://wakatime.com/@35c755da-7226-42ef-89f9-892c03fbcf7e)
