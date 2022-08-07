@@ -31,6 +31,7 @@ I code mostly in C# (its my favorite language!) and Visual Studio is my IDE of c
 [![wakatime](https://wakatime.com/badge/user/35c755da-7226-42ef-89f9-892c03fbcf7e.svg?style=for-the-badge)](https://wakatime.com/@35c755da-7226-42ef-89f9-892c03fbcf7e)
 <!--START_SECTION:waka-->
 
+My wakatime stats for this week!
 ```text
 Lua          4 hrs 24 mins   ██████████████████████▓░░   90.10 %
 JSON         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
