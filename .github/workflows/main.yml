@@ -17,6 +17,8 @@ jobs:
           COMMIT_MESSAGE: Wakatime stats
   update-readme-redo:
       name: Update this repo's README again
+      # https://github.com/actions/runner/issues/1251#issuecomment-895850408
+      if: ${{ contains(join(needs.*.result, ','), 'success') }}
       needs: update-readme
       runs-on: ubuntu-latest
       steps:
