@@ -15,14 +15,9 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_MESSAGE: Wakatime stats
-  update-readme-redo:
-      name: Update this repo's README again
-      # https://github.com/actions/runner/issues/1251#issuecomment-895850408
-      if: ${{ contains(join(needs.*.result, ','), 'failure') }}
-      needs: update-readme
-      runs-on: ubuntu-latest
-      steps:
-        - uses: athul/waka-readme@master
-          with:
-            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-            COMMIT_MESSAGE: Wakatime stats again
+      # rerun if it fails (it does that sometimes)
+      - uses: athul/waka-readme@master
+        if: ${{ failure() }}
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_MESSAGE: Wakatime stats rerun
