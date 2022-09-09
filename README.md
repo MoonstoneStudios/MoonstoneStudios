@@ -32,9 +32,9 @@ I code mostly in C# (its my favorite language!) and Visual Studio is my IDE of c
 <!--START_SECTION:waka-->
 
 ```text
-Lua      38 mins         ████████████▒░░░░░░░░░░░░   49.30 %
-C#       25 mins         ████████░░░░░░░░░░░░░░░░░   32.15 %
-Other    7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
+C#       31 mins         ███████████████▓░░░░░░░░░   62.49 %
+Blazor   9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
+Other    8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.88 %
 ```
 
 <!--END_SECTION:waka-->
