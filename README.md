@@ -32,7 +32,7 @@ I code mostly in C# (its my favorite language!) and Visual Studio is my IDE of c
 <!--START_SECTION:waka-->
 
 ```text
-Other        1 hr 24 mins    ██████████░░░░░░░░░░░░░░░   40.56 %
+Other        1 hr 2 mins     █████████▒░░░░░░░░░░░░░░░   37.79 %
 ```
 
 <!--END_SECTION:waka-->
