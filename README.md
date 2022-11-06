@@ -32,10 +32,10 @@ I code mostly in C# (its my favorite language!) and Visual Studio is my IDE of c
 <!--START_SECTION:waka-->
 
 ```text
-Lua     4 hrs 23 mins   ████████████████████████▓   98.22 %
-JSON    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Text    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Lua     5 hrs 5 mins    ████████████████████████▓   98.46 %
+JSON    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Text    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
