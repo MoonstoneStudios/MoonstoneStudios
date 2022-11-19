@@ -32,8 +32,8 @@ I code mostly in C# (its my favorite language!) and Visual Studio is my IDE of c
 <!--START_SECTION:waka-->
 
 ```text
-C#           4 hrs 41 mins   ███████████▓░░░░░░░░░░░░░   46.81 %
-Other        4 hrs 26 mins   ███████████░░░░░░░░░░░░░░   44.30 %
+C#           5 hrs 45 mins   ████████████░░░░░░░░░░░░░   48.41 %
+Other        5 hrs 12 mins   ███████████░░░░░░░░░░░░░░   43.77 %
 ```
 
 <!--END_SECTION:waka-->
