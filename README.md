@@ -14,14 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi I am _Moonstone!_  ✨
+# Hi I am _Moonstone!_  ✨
 ###### he/him
-### I am a student and developer who loves programming and learning new things about it.
+### I am a student and developer who loves programming.
 
-I use _C#_ to program, but I have been starting to test out the _Luau_ language for Roblox games.
-I also know the _Denizen Scripting Language_ to make Minecraft servers.
+I program primaraly in C#. It is my favorite programming language! I use Visual Studio as my IDE.
 
-I code mostly in C# (its my favorite language!) and Visual Studio is my IDE of choice. I have written my own game engine and several different projects.
+- I am currently working on [WakaSkies](https://github.com/MoonstoneStudios/WakaSkies)
 
 ---
 
