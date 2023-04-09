@@ -31,7 +31,7 @@ I program primaraly in C#. It is my favorite programming language! I use Visual 
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Other      7 mins          ███████████████████████▓░   94.37 %
 ```
 
 <!--END_SECTION:waka-->
