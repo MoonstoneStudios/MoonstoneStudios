@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 ### I am a student and developer who loves programming.
 
 I program primaraly in C#. It is my favorite programming language! I use Visual Studio as my IDE.
-
-- I am currently working on [WakaSkies](https://github.com/MoonstoneStudios/WakaSkies)
-
 ---
 
 **Code Zone**
