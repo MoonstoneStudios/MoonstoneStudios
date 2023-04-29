@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 
 # Hi I am _Moonstone!_  ✨
 ###### he/him
-### I am a student and developer who loves programming.
 
+I am a student and developer who loves programming.
 I program primaraly in C#. It is my favorite programming language! I use Visual Studio as my IDE.
+
 ---
 
 **Code Zone**
