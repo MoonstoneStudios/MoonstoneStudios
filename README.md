@@ -29,10 +29,11 @@ I program primaraly in C#. It is my favorite programming language! I use Visual 
 <!--START_SECTION:waka-->
 
 ```txt
-C#       4 hrs 1 min     █████████████████████▓░░░   87.11 %
-Binary   28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
-Other    6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-JSON     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+C#         3 hrs 27 mins   ████████████████████▓░░░░   83.28 %
+Binary     28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+Other      10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+JSON       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
