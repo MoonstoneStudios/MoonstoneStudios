@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 # Hi I am _Moonstone!_  ✨
 ###### he/him
 
-I am a student and developer who loves programming.
-I program primaraly in C#. It is my favorite programming language! I use Visual Studio as my IDE.
+I am a student and developer who loves programming with about 6+ years of experience. 
+I have about 6 years of experience in the C# programming language. 
+My favorite frameworks are Avalonia (for desktop apps) and Microsoft Community Toolkit (for MVVM).
+
+Feel free to check out my page. My pinned repos are my favorite projects or the ones I want to show off the most. 
 
 ---
 
