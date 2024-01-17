@@ -32,11 +32,8 @@ Feel free to check out my page. My pinned repos are my favorite projects or the 
 <!--START_SECTION:waka-->
 
 ```txt
-C#           8 mins          ██████████▓░░░░░░░░░░░░░░   43.26 %
-Binary       5 mins          ███████░░░░░░░░░░░░░░░░░░   28.00 %
-Razor        2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
-INI          1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-JavaScript   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+INI     1 min           ██████████████████████▒░░   88.94 %
+Other   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
 ```
 
 <!--END_SECTION:waka-->
