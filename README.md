@@ -32,7 +32,8 @@ Feel free to check out my page. My pinned repos are my favorite projects or the 
 <!--START_SECTION:waka-->
 
 ```txt
-Binary   0 secs          █████████████████████████   100.00 %
+C++   42 mins         ████████████████████████▓   98.14 %
+C#    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
