@@ -32,7 +32,11 @@ Feel free to check out my page. My pinned repos are my favorite projects or the 
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Binary        2 mins          █████████▓░░░░░░░░░░░░░░░   38.07 %
+XAML          1 min           ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
+Markdown      1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 %
+C#            0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
+Other         0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
 ```
 
 <!--END_SECTION:waka-->
