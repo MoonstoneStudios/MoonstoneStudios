@@ -32,11 +32,7 @@ Feel free to check out my page. My pinned repos are my favorite projects or the 
 <!--START_SECTION:waka-->
 
 ```txt
-Dart       17 mins         ███████████████████████▒░   93.20 %
-Other      0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-YAML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-C++        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
