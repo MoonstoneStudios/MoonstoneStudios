@@ -32,11 +32,11 @@ Feel free to check out my page. My pinned repos are my favorite projects or the 
 <!--START_SECTION:waka-->
 
 ```txt
-C#           9 hrs 30 mins   ████████████████▒░░░░░░░░   65.96 %
-Binary       2 hrs           ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
-Other        1 hr 33 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
-Markdown     42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+C#           9 hrs 14 mins   █████████████████▒░░░░░░░   68.98 %
+Binary       1 hr 43 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
+Other        1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
+Markdown     42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+CSV          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
