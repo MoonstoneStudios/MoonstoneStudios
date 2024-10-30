@@ -32,9 +32,9 @@ Feel free to check out my page. My pinned repos are my favorite projects or the 
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 12 mins    ██████████████▓░░░░░░░░░░   58.22 %
-CSS          28 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.67 %
-HTML         23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
+JavaScript   50 mins         ███████████████▒░░░░░░░░░   61.94 %
+CSS          18 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.24 %
+HTML         12 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
 C#           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
