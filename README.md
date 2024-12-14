@@ -32,11 +32,11 @@ Feel free to check out my page. My pinned repos are my favorite projects or the 
 <!--START_SECTION:waka-->
 
 ```txt
-C#                1 hr 36 mins    █████████████████████░░░░   83.42 %
-Bash              13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
-Java Properties   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-JSON              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-C                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+C#                1 hr 36 mins    █████████████▓░░░░░░░░░░░   55.17 %
+C++               53 mins         ███████▓░░░░░░░░░░░░░░░░░   30.35 %
+Bash              13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
+Java Properties   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+C                 3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
 ```
 
 <!--END_SECTION:waka-->
