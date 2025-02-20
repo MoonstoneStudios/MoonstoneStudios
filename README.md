@@ -32,11 +32,11 @@ Feel free to check out my page. My pinned repos are my favorite projects or the 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        2 hrs 18 mins   ████████████████▓░░░░░░░░   66.39 %
-C++               1 hr 1 min      ███████▒░░░░░░░░░░░░░░░░░   29.38 %
-C                 5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-JSON              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Java Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+C++               2 hrs 22 mins   ███████████▓░░░░░░░░░░░░░   46.77 %
+TypeScript        2 hrs 18 mins   ███████████▒░░░░░░░░░░░░░   45.47 %
+C                 6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Objective-C       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Git Config        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
