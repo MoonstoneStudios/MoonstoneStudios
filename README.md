@@ -32,7 +32,10 @@ Feel free to check out my page. My pinned repos are my favorite projects or the 
 <!--START_SECTION:waka-->
 
 ```txt
-HTML   10 mins         █████████████████████████   100.00 %
+Assembly                           14 mins         █████████████▒░░░░░░░░░░░   53.08 %
+HTML                               10 mins         █████████▓░░░░░░░░░░░░░░░   38.66 %
+C#                                 1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Microsoft Visual Studio Solution   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
 ```
 
 <!--END_SECTION:waka-->
