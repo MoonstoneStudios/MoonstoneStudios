@@ -32,11 +32,11 @@ Feel free to check out my page. My pinned repos are my favorite projects or the 
 <!--START_SECTION:waka-->
 
 ```txt
-C             34 mins         ███████████▓░░░░░░░░░░░░░   46.60 %
-Meson         16 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.93 %
-C++           14 mins         █████░░░░░░░░░░░░░░░░░░░░   19.42 %
-Objective-C   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-JSON          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+C             33 mins         █████████████████▒░░░░░░░   69.62 %
+Meson         9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.64 %
+Objective-C   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+JSON          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Other         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 ```
 
 <!--END_SECTION:waka-->
