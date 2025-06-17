@@ -32,11 +32,11 @@ Feel free to check out my page. My pinned repos are my favorite projects or the 
 <!--START_SECTION:waka-->
 
 ```txt
-Luau              2 hrs 15 mins   ███████████▒░░░░░░░░░░░░░   45.61 %
-C++               1 hr 28 mins    ███████▒░░░░░░░░░░░░░░░░░   29.77 %
-C#                45 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
-Binary            10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-Other             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Luau         2 hrs 15 mins   ████████▒░░░░░░░░░░░░░░░░   33.38 %
+C++          2 hrs 3 mins    ███████▓░░░░░░░░░░░░░░░░░   30.54 %
+C#           1 hr 19 mins    █████░░░░░░░░░░░░░░░░░░░░   19.65 %
+Binary       38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
+Other        20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
 ```
 
 <!--END_SECTION:waka-->
