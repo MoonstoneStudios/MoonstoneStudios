@@ -32,8 +32,8 @@ Feel free to check out my page. My pinned repos are my favorite projects or the 
 <!--START_SECTION:waka-->
 
 ```txt
-Lua    7 hrs 20 mins   █████████████████████████   99.74 %
-JSON   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Lua    4 hrs 48 mins   █████████████████████████   99.61 %
+JSON   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
