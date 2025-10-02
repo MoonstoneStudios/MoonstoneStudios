@@ -32,9 +32,8 @@ Feel free to check out my page. My pinned repos are my favorite projects or the 
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     9 mins          █████████████████▒░░░░░░░   69.23 %
-C#           4 mins          ███████▓░░░░░░░░░░░░░░░░░   30.28 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Markdown   5 mins          ███████████████░░░░░░░░░░   59.70 %
+C#         3 mins          ██████████░░░░░░░░░░░░░░░   40.30 %
 ```
 
 <!--END_SECTION:waka-->
