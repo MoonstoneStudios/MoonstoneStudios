@@ -32,7 +32,11 @@ Feel free to check out my page. My pinned repos are my favorite projects or the 
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#                                 9 mins          ████████████▓░░░░░░░░░░░░   50.20 %
+C++                                7 mins          █████████▓░░░░░░░░░░░░░░░   38.83 %
+INI                                1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+Microsoft Visual Studio Solution   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+XML                                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
