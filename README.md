@@ -32,11 +32,11 @@ Feel free to check out my page. My pinned repos are my favorite projects or the 
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         5 hrs 5 mins    ███████████▓░░░░░░░░░░░░░   46.05 %
-YAML         2 hrs 38 mins   ██████░░░░░░░░░░░░░░░░░░░   23.88 %
-CSS          1 hr 30 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
-Svelte       1 hr 23 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
-Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+HTML         4 hrs 58 mins   ████████████▒░░░░░░░░░░░░   49.52 %
+YAML         2 hrs 38 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.23 %
+CSS          1 hr 29 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
+Svelte       32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
