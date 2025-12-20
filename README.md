@@ -32,7 +32,8 @@ Feel free to check out my page. My pinned repos are my favorite projects or the 
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+INI   0 secs          ██████████████████▓░░░░░░   74.92 %
+C++   0 secs          ██████▒░░░░░░░░░░░░░░░░░░   25.08 %
 ```
 
 <!--END_SECTION:waka-->
