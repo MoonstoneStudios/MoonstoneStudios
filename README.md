@@ -32,7 +32,9 @@ Feel free to check out my page. My pinned repos are my favorite projects or the 
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML   28 mins               ██████████████████████▓░░   90.33 %
+HTML   2 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+CSS    0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 ```
 
 <!--END_SECTION:waka-->
