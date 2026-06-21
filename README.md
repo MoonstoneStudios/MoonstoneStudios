@@ -32,11 +32,11 @@ Feel free to check out my page. My pinned repos are my favorite projects or the 
 <!--START_SECTION:waka-->
 
 ```txt
-C++          1 hr 4 mins           ███████████████▒░░░░░░░░░   60.81 %
-INI          24 mins               ██████░░░░░░░░░░░░░░░░░░░   23.36 %
-C            9 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
-Other        7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+INI          13 mins               ███████████▓░░░░░░░░░░░░░   47.05 %
+Other        7 mins                ██████▓░░░░░░░░░░░░░░░░░░   26.24 %
+C++          5 mins                █████░░░░░░░░░░░░░░░░░░░░   19.39 %
+C            1 min                 █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
