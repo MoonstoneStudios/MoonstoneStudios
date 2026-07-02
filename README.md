@@ -32,8 +32,8 @@ Feel free to check out my page. My pinned repos are my favorite projects or the 
 <!--START_SECTION:waka-->
 
 ```txt
-Python   36 mins               ███████████████████████▒░   93.71 %
-CSV      2 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+Python   1 hr 52 mins          ████████████████████████▒   97.60 %
+CSV      2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
 ```
 
 <!--END_SECTION:waka-->
