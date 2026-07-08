@@ -32,10 +32,11 @@ Feel free to check out my page. My pinned repos are my favorite projects or the 
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs 56 mins         ████████████████████████▓   98.28 %
-CSV      2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-TOML     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Text     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python   2 hrs 19 mins         ████████████████████▒░░░░   81.33 %
+Other    31 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.31 %
+CSV      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+TOML     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Text     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
