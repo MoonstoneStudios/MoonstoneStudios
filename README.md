@@ -32,9 +32,7 @@ Feel free to check out my page. My pinned repos are my favorite projects or the 
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin       1 hr 15 mins          ████████████████████████▓   99.22 %
-TOML         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Properties   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
