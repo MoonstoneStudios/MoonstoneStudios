@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi I am _Moonstone!_  ✨
+# Hi I am Owen H.
 ###### he/him
 
-I am a student and developer who loves programming with about 6+ years of experience. 
-I have about 6 years of experience in the C# programming language. 
-My favorite frameworks are Avalonia (for desktop apps) and Microsoft Community Toolkit (for MVVM).
-
+I am a student and developer who loves programming with about 6+ years of programming experience.
 Feel free to check out my page. My pinned repos are my favorite projects or the ones I want to show off the most. 
 
 ---
